@@ -2,6 +2,7 @@ package com.projectfile;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
+
 //... classe Entrada (possui m�todos para entrada de dados) ....
 public class Entrada {
     public static String leString(String msg)

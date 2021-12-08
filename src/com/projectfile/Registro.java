@@ -76,7 +76,7 @@ public class Registro {
         System.out.println("----------------------------------");
     }
 
-    static int length()
+    public static int length()
     {
         return (52); //int codigo, tl=20, idade; ------------> 12 bytes
         //private char nome[] = new char[20]; --> 40 bytes
